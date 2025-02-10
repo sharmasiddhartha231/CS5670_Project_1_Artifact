@@ -8,7 +8,23 @@ The images used for black and white hybrid testing are as follows
   <img src="https://github.com/sharmasiddhartha231/CS5670_Project_1_Artifact/blob/main/Artifact/right.jpg" width="400" title = "Right Image"/> 
 </p>
 
-For hybrid image testing, 4 different sets of hyper parameters were used. All parameter files are provided as jsons alongside the resulting image based on each parameter. There are 8 resulting hybrid images and parameter files. This is due to testing 4 sets of parameters and using high and low pass alternatively on both images. For all testing purposes, the image order does not change.
+For the purpose of selecting one representative image, I am choosing Image based on Set 7. For information for different sets, please refer table below. The parameters are as follows: <br/> 
+Left Sigma: 10 <br/> 
+Right Sigma: 10 <br/> 
+Left Kernel Size: 25 <br/> 
+Right Kernel Size: 25 <br/> 
+Left Image Pass: Low <br/> 
+Right Image Pass: High <br/> 
+Mix-in Ratio: 0.5 <br/> 
+Scale Factor: 2.0 <br/> 
+
+Image for Set 7
+<p float="left">
+  <img src="https://github.com/sharmasiddhartha231/CS5670_Project_1_Artifact/blob/main/Artifact/hybrid_7.jpg" width="400" title="Hybrid Image 7" />
+</p>
+
+
+For hybrid image testing, 4 different sets of hyper parameters were used. All parameter files are provided as jsons alongside the resulting image based on each parameter. There are 8 resulting hybrid images and parameter files. This is due to testing 4 sets of parameters and using high and low pass alternatively on both images. For all testing purposes, the image order does not change. Set 7 was chosen as representative image.
 
 | Image Set     | Left Sigma    | Left Kernel Size | Right Sigma   | Right Kernel Size | Left Image Pass | Right Image Pass |  Mix-in Ratio | Scale Factor |
 | ------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | ---------------- | ------------- | ------------ |
@@ -45,17 +61,4 @@ Images for Set 7 and 8
   <img src="https://github.com/sharmasiddhartha231/CS5670_Project_1_Artifact/blob/main/Artifact/hybrid_8.jpg" width="400" title = "Hybrid Image 8"/> 
 </p>
 
-For the purpose of selecting one representative image, I am choosing Image based on Set 7. The parameters are as follows: <br/> 
-Left Sigma: 10 <br/> 
-Right Sigma: 10 <br/> 
-Left Kernel Size: 25 <br/> 
-Right Kernel Size: 25 <br/> 
-Left Image Pass: Low <br/> 
-Right Image Pass: High <br/> 
-Mix-in Ratio: 0.5 <br/> 
-Scale Factor: 2.0 <br/> 
 
-Image for Set 7
-<p float="left">
-  <img src="https://github.com/sharmasiddhartha231/CS5670_Project_1_Artifact/blob/main/Artifact/hybrid_7.jpg" width="400" title="Hybrid Image 7" />
-</p>
