@@ -55,7 +55,7 @@ Right Image Pass: High
 Mix-in Ratio: 0.5
 Scale Factor: 2.0
 
-Images for Set 7 and 8
+Image for Set 7
 <p float="left">
   <img src="https://github.com/sharmasiddhartha231/CS5670_Project_1_Artifact/blob/main/Artifact/hybrid_7.jpg" width="400" title="Hybrid Image 7" />
 </p>
