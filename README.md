@@ -19,7 +19,7 @@ For hybrid image testing, 4 different sets of hyper parameters were used. All pa
 | Set 5 | 5.0  | 10 | 5.0 | 10 | Low | High |
 | Set 6 | 5.0  | 10 | 5.0 | 10 | High | Low |
 | Set 7 | 10.0  | 25 | 10.0 | 25 | Low | High |
-| Set 8 | 10.0  | 25 | 10.0 | 25 | Low | High |
+| Set 8 | 10.0  | 25 | 10.0 | 25 | High | Low |
 
 Images for Set 1 and 2
 <p float="left">
