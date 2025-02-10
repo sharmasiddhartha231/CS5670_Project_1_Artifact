@@ -10,16 +10,16 @@ The images used for black and white hybrid testing are as follows
 
 For hybrid image testing, 4 different sets of hyper parameters were used. All parameter files are provided as jsons alongside the resulting image based on each parameter. There are 8 resulting hybrid images and parameter files. This is due to testing 4 sets of parameters and using high and low pass alternatively on both images. For all testing purposes, the image order does not change.
 
-| Image Set     | Left Sigma    | Left Kernel Size | Right Sigma   | Right Kernel Size | Left Image Pass | Right Image Pass |  
-| ------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | ---------------- |
-| Set 1 | 4.1  | 8 | 7.0 | 13 | Low | High |
-| Set 2 | 4.1  | 8 | 7.0 | 13 | High | Low |
+| Image Set     | Left Sigma    | Left Kernel Size | Right Sigma   | Right Kernel Size | Left Image Pass | Right Image Pass |  Mix-in Ratio | Scale Factor |
+| ------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | ---------------- | ------------- | ------------ |
+| Set 1 | 4.1  | 8 | 7.0 | 13 | Low | High | 0.65 | 2.0 |
+| Set 2 | 4.1  | 8 | 7.0 | 13 | High | Low | 0.65 | 2.0 |
 | Set 3 | 7.0  | 13 | 4.1 | 8 | Low | High |
 | Set 4 | 7.0  | 13 | 4.1 | 8 | High | Low |
-| Set 5 | 5.0  | 10 | 5.0 | 10 | Low | High |
-| Set 6 | 5.0  | 10 | 5.0 | 10 | High | Low |
-| Set 7 | 10.0  | 25 | 10.0 | 25 | Low | High |
-| Set 8 | 10.0  | 25 | 10.0 | 25 | High | Low |
+| Set 5 | 5.0  | 10 | 5.0 | 10 | Low | High | 0.5 | 
+| Set 6 | 5.0  | 10 | 5.0 | 10 | High | Low | 0.5 |
+| Set 7 | 10.0  | 25 | 10.0 | 25 | Low | High | 0.5 | 2.0 |
+| Set 8 | 10.0  | 25 | 10.0 | 25 | High | Low | 0.5 | 3.0 |
 
 Images for Set 1 and 2
 <p float="left">
