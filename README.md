@@ -45,15 +45,15 @@ Images for Set 7 and 8
   <img src="https://github.com/sharmasiddhartha231/CS5670_Project_1_Artifact/blob/main/Artifact/hybrid_8.jpg" width="400" title = "Hybrid Image 8"/> 
 </p>
 
-For the purpose of selecting one representative image, I am choosing Image based on Set 7. The parameters are as follows:
-Left Sigma: 10
-Right Sigma: 10
-Left Kernel Size: 25
-Right Kernel Size: 25
-Left Image Pass: Low
-Right Image Pass: High
-Mix-in Ratio: 0.5
-Scale Factor: 2.0
+For the purpose of selecting one representative image, I am choosing Image based on Set 7. The parameters are as follows: <br/> 
+Left Sigma: 10 <br/> 
+Right Sigma: 10 <br/> 
+Left Kernel Size: 25 <br/> 
+Right Kernel Size: 25 <br/> 
+Left Image Pass: Low <br/> 
+Right Image Pass: High <br/> 
+Mix-in Ratio: 0.5 <br/> 
+Scale Factor: 2.0 <br/> 
 
 Image for Set 7
 <p float="left">
